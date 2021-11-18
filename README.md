@@ -1,2 +1,1 @@
-# RyothX.github.io
-My github page to directly link urls for my Discord themes.
+My GitHub page to directly link URLs for my Discord themes.
